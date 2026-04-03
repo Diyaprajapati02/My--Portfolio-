@@ -35,3 +35,19 @@ section{
     border-radius: 20px;
     font-weight: bold;
 }
+.projects .project {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 15px;
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px #aaa
+}
+footer {
+    background: #333;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
